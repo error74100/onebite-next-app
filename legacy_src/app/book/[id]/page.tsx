@@ -1,4 +1,4 @@
-import ClientComponent from '@/components/client-components';
+import ClientComponent from '../../../components/client-components';
 
 export default function Page({
   params,
